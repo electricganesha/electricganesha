@@ -9,11 +9,11 @@
 
 My name is [Christian](https://www.christianmarques.com) and I'm a full-time software engineer (full-stack Javascript), published poet, amateur musician, and hobbyist photographer.
 
-I graduated (B.Sc.) in Computer Science from the [Faculty of Sciences of the University of Lisbon](https://ciencias.ulisboa.pt/), and completed my M.Sc. in Information Systems in the same institution. I spent one full year at the [Polytechnic Institute of Catalunya](https://www.upc.edu/en) (Barcelona) through the European interchange programme [Erasmus Mundus](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters).
+I graduated (B.Sc.) in Computer Science from the [Faculty of Sciences of the University of Lisbon](https://ciencias.ulisboa.pt/), and completed my M.Sc. in Information Systems through the same institution. I spent one full year at the [Polytechnic Institute of Catalunya](https://www.upc.edu/en) (Barcelona) through the European interchange programme [Erasmus Mundus](https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters).
 
-I am interested in topics as wide as web development, computer graphics, video-game design, crypto-currency/fintech, artificial intelligence, data science, artificial life, literature, cinema, music and philosophy.
+I am interested in topics as diverse as web development, computer graphics, video game design, crypto-currency/fintech, artificial intelligence, data science, artificial life, literature, cinema, music, and philosophy.
 
-I have worked in various types of organizations (academic, multinational, startup, etc). I often volunteer for projects that might have some meaning to me, but I am also open to providing services as a contractor - mostly for web projects, but also video games, or others, so if you have a project that you think would be interesting to discuss, do get in touch and we can talk about it.
+I have worked in various organizations (academic, multinational, startup, etc). I often volunteer for projects that might have some meaning to me, but I am also open to providing services as a contractor - mostly for web projects, but also video games, or others, so if you have a project that you think would be interesting to discuss, do get in touch and we can talk about it.
 
 - 🦷 I’m currently working at [Promaton](https://www.promaton.com/) as a front-end engineer developing advanced AI-driven 3D interfaces and visualisations for the dental industry.
 - 🛍️ I worked for ~5 years at [Trouva](https://www.trouva.com) as a full-stack engineer (mostly front-end) developing and maintaining a complex international e-commerce platform with B2C and B2B facing applications.
